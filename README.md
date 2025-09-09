@@ -1,11 +1,11 @@
-# Nuxt Example
+# Paper (Async)
 
-Deploy your [Nuxt](https://nuxt.com) project to Vercel with zero configuration.
+Make communication easy with Paper.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/vercel/examples/tree/main/framework-boilerplates/nuxtjs&template=nuxtjs)
+## Codebase
 
-_Live Example: https://nuxtjs-template.vercel.app_
-
+Made with [Nuxt 3](https://nuxt.com), [Tailwind CSS](https://tailwindcss.com/), and [TypeScript](https://www.typescriptlang.org/).
+Deployed on [Vercel](https://vercel.com/).
 Look at the [Nuxt 3 documentation](https://v3.nuxtjs.org) to learn more.
 
 ## Setup
@@ -13,17 +13,10 @@ Look at the [Nuxt 3 documentation](https://v3.nuxtjs.org) to learn more.
 Make sure to install the dependencies:
 
 ```bash
-# yarn
-yarn
-
-# npm
 npm install
-
-# pnpm
-pnpm install --shamefully-hoist
 ```
 
-## Development Server
+### Development Server
 
 Start the development server on http://localhost:3000
 
@@ -31,18 +24,13 @@ Start the development server on http://localhost:3000
 npm run dev
 ```
 
-## Production
-
-Build the application for production:
+### Production
 
 ```bash
+# Build the application for production:
 npm run build
-```
 
-Locally preview production build:
-
-```bash
+# Locally preview production build: -->
 npm run preview
 ```
 
-Checkout the [deployment documentation](https://nuxt.com/docs/getting-started/deployment#presets) for more information.
