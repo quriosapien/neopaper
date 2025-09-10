@@ -1,5 +1,8 @@
 <template>
   <div>
-    Welcome to Paper (Async)!
+    <h1>
+      NeoPaper!
+    </h1>
+    <p>Coming soon...</p>
   </div>
 </template>

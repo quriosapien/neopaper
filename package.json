@@ -1,4 +1,5 @@
 {
+  "name": "neopaper",
   "private": true,
   "type": "module",
   "scripts": {
